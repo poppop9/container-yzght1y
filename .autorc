@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "poppop9",
+  "repo": "container-yzght1y",
+  "name": "poppop9",
+  "email": "1962883041@qq.com",
+}
